@@ -1,0 +1,26 @@
+version: "3.5"
+
+networks:
+  localdev:
+   name: localdev
+
+services:
+  main-api:
+   build: .
+   restart: always
+   ports:
+    - "5001:80"
+   depends_on:
+    - db-server
+   networks:
+    - localdev
+  db-server:
+    image: mcr.microsoft.com/mssql/server
+    container_name: db-server
+    environment:
+     - ACCEPT_EULA=Y
+     - SA_PASSWORD=Cassiel1234
+    networks:
+     - localdev
+    ports:
+     - "1433:1433"

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywtMdAodLunZ4sXO1vZa6ddEZ6pg6ydU8B0bN6eKgsuVPu9ScZ6VmAQ87bagT28kPzvS5X2J3jmc2bTTRfcxSg==",
+  "success": true,
+  "projectFilePath": "C:\\Study\\TweetBook.Contracts\\TweetBook.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cassielcortez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cassielcortez\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.2.3\\swashbuckle.aspnetcore.annotations.6.2.3.nupkg.sha512",
+    "C:\\Users\\cassielcortez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\cassielcortez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

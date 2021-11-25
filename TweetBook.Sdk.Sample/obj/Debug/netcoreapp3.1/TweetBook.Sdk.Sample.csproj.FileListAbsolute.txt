@@ -1,0 +1,15 @@
+C:\Study\TweetBook.Sdk.Sample\bin\Debug\netcoreapp3.1\TweetBook.Sdk.Sample.deps.json
+C:\Study\TweetBook.Sdk.Sample\bin\Debug\netcoreapp3.1\TweetBook.Sdk.Sample.dll
+C:\Study\TweetBook.Sdk.Sample\bin\Debug\netcoreapp3.1\TweetBook.Sdk.Sample.pdb
+C:\Study\TweetBook.Sdk.Sample\bin\Debug\netcoreapp3.1\TweetBook.Contracts.dll
+C:\Study\TweetBook.Sdk.Sample\bin\Debug\netcoreapp3.1\TweetBook.Sdk.dll
+C:\Study\TweetBook.Sdk.Sample\bin\Debug\netcoreapp3.1\TweetBook.Sdk.pdb
+C:\Study\TweetBook.Sdk.Sample\bin\Debug\netcoreapp3.1\TweetBook.Contracts.pdb
+C:\Study\TweetBook.Sdk.Sample\obj\Debug\netcoreapp3.1\TweetBook.Sdk.Sample.csproj.AssemblyReference.cache
+C:\Study\TweetBook.Sdk.Sample\obj\Debug\netcoreapp3.1\TweetBook.Sdk.Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\TweetBook.Sdk.Sample\obj\Debug\netcoreapp3.1\TweetBook.Sdk.Sample.AssemblyInfoInputs.cache
+C:\Study\TweetBook.Sdk.Sample\obj\Debug\netcoreapp3.1\TweetBook.Sdk.Sample.AssemblyInfo.cs
+C:\Study\TweetBook.Sdk.Sample\obj\Debug\netcoreapp3.1\TweetBook.Sdk.Sample.csproj.CoreCompileInputs.cache
+C:\Study\TweetBook.Sdk.Sample\obj\Debug\netcoreapp3.1\TweetBook.Sdk.Sample.csproj.CopyComplete
+C:\Study\TweetBook.Sdk.Sample\obj\Debug\netcoreapp3.1\TweetBook.Sdk.Sample.dll
+C:\Study\TweetBook.Sdk.Sample\obj\Debug\netcoreapp3.1\TweetBook.Sdk.Sample.pdb

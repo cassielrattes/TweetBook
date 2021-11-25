@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TweetBook", "TweetBook.csproj", "{38AA0FA4-B724-40AB-B67D-D35B1BF55664}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TweetBook.IntegrationTests", "..\TweetBook.IntegrationTests\TweetBook.IntegrationTests.csproj", "{830D9444-E49B-40C1-B8AF-C7550EF5FDDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetBook.Sdk", "..\TweetBook.Sdk\TweetBook.Sdk.csproj", "{BCFB581C-7B67-40D2-9FF0-3B3294444731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetBook.Sdk.Sample", "..\TweetBook.Sdk.Sample\TweetBook.Sdk.Sample.csproj", "{AE5DC7D1-60EF-4137-AA63-D60D37C66ABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetBook.Contracts", "..\TweetBook.Contracts\TweetBook.Contracts.csproj", "{F8566F4A-1E15-42FC-BA4A-1311C2963A75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38AA0FA4-B724-40AB-B67D-D35B1BF55664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AA0FA4-B724-40AB-B67D-D35B1BF55664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AA0FA4-B724-40AB-B67D-D35B1BF55664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AA0FA4-B724-40AB-B67D-D35B1BF55664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830D9444-E49B-40C1-B8AF-C7550EF5FDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830D9444-E49B-40C1-B8AF-C7550EF5FDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830D9444-E49B-40C1-B8AF-C7550EF5FDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830D9444-E49B-40C1-B8AF-C7550EF5FDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFB581C-7B67-40D2-9FF0-3B3294444731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFB581C-7B67-40D2-9FF0-3B3294444731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFB581C-7B67-40D2-9FF0-3B3294444731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFB581C-7B67-40D2-9FF0-3B3294444731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5DC7D1-60EF-4137-AA63-D60D37C66ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5DC7D1-60EF-4137-AA63-D60D37C66ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5DC7D1-60EF-4137-AA63-D60D37C66ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5DC7D1-60EF-4137-AA63-D60D37C66ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8566F4A-1E15-42FC-BA4A-1311C2963A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8566F4A-1E15-42FC-BA4A-1311C2963A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8566F4A-1E15-42FC-BA4A-1311C2963A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8566F4A-1E15-42FC-BA4A-1311C2963A75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E6A6B67-950C-4CD9-9638-DD89975C4B7D}
+	EndGlobalSection
+EndGlobal

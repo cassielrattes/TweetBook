@@ -1,0 +1,9 @@
+C:\Study\TweetBook.Contracts\bin\Debug\netcoreapp3.1\TweetBook.Contracts.deps.json
+C:\Study\TweetBook.Contracts\bin\Debug\netcoreapp3.1\TweetBook.Contracts.dll
+C:\Study\TweetBook.Contracts\bin\Debug\netcoreapp3.1\TweetBook.Contracts.pdb
+C:\Study\TweetBook.Contracts\obj\Debug\netcoreapp3.1\TweetBook.Contracts.csproj.AssemblyReference.cache
+C:\Study\TweetBook.Contracts\obj\Debug\netcoreapp3.1\TweetBook.Contracts.AssemblyInfoInputs.cache
+C:\Study\TweetBook.Contracts\obj\Debug\netcoreapp3.1\TweetBook.Contracts.AssemblyInfo.cs
+C:\Study\TweetBook.Contracts\obj\Debug\netcoreapp3.1\TweetBook.Contracts.csproj.CoreCompileInputs.cache
+C:\Study\TweetBook.Contracts\obj\Debug\netcoreapp3.1\TweetBook.Contracts.dll
+C:\Study\TweetBook.Contracts\obj\Debug\netcoreapp3.1\TweetBook.Contracts.pdb
